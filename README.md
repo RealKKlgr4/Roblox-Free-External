@@ -12,15 +12,15 @@ A **fake Roblox external** with a simple keysystem — for **educational and ent
 ## 📦 Features
 
 - Fake Roblox external interface  
-- Simulated keysystem for fun  
-- Does not connect to Roblox or interfere with the game  
-- Great for learning Python basics and PyInstaller
+- Very Easy keysystem, no i mean it literally just go to the website and click get key im serious...  
+- Very Easy to get and has a Beginner-Friendly interface  
+- Made by RealKKIgr4
 
 ---
 
 ## ⚠️ Disclaimer
 
-🚫 **This Is Used for Non Exploit Reasons :) **  
+🚫 **This Is Used for Non-Exploit Reasons :) **  
 ✅ It’s **100% Not my Fault if you do Something, youre in Charge not me**   
 📚 For **educational** and **testing purposes only** — use responsibly!
 
