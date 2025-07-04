@@ -6,7 +6,6 @@ A **fake Roblox external** with a simple keysystem — for **educational and ent
 ---
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-Fake-blue)
 
 ---
 
