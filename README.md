@@ -1,7 +1,7 @@
-# 🎮 FakeRobloxExternal
+# 🎮 Official Boltz External
 
-A **fake Roblox external** with a simple keysystem — for **educational and entertainment purposes only!**  
-**🚫 This does NOT hack Roblox.**
+A **Roblox external** with a simple keysystem — for **educational and entertainment purposes only!**  
+**🚫 WHATEVER YOU DO IM NOT IN CHARGE.**
 
 ---
 
@@ -20,7 +20,7 @@ A **fake Roblox external** with a simple keysystem — for **educational and ent
 
 ## ⚠️ Disclaimer
 
-🚫 **This Is Used for Non-Exploit Reasons :) **  
+🚫 **Testing and For safe Purposes tho :) **  
 ✅ It’s **100% Not my Fault if you do Something, youre in Charge not me**   
 📚 For **educational** and **testing purposes only** — use responsibly!
 
